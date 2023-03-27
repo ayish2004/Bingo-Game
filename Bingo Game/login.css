@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    overflow: hidden;
+    background-color:black;
+    color:white;
+    font-family:"sofia pro";
+}
+label{
+    font-size:30px;
+    border-radius:2rem;
+    border:0.2rem solid #fff;
+    padding:0.4em;
+    box-shadow:0 0 .2rem #fff,
+               0 0 .2rem #fff,
+               0 0 2rem #bc13fe,
+               0 0 2.8rem #bc13fe,
+               0 0 2.8rem #bc13fe,
+               insert 0 0 1.3rem #bc13fe;
+}
+input{
+    
+}
